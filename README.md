@@ -1,59 +1,58 @@
 # excel_operations_dashboard
+OPERATIONAL PERFORMANCE DASHBOARD (EXCEL)
+PROJECT OVERVIEW
 
-Project Overview
+In this project, I worked on analyzing operational data to understand performance trends and identify inefficiencies in workflows. The goal was to convert raw, unstructured data into a clear and interactive dashboard using Microsoft Excel, enabling easier monitoring and decision-making.
 
-This project focuses on analyzing operational data to identify inefficiencies, track key performance metrics, and support data-driven decision-making. An interactive dashboard was developed using Microsoft Excel to transform raw data into meaningful insights.
+OBJECTIVE
+To study operational data and understand key performance trends
+To identify areas where efficiency can be improved
+To build a simple and interactive dashboard for quick analysis
 
-🎯 Objective
-To analyze operational performance across multiple metrics
-To identify trends, inefficiencies, and improvement areas
-To create a dynamic dashboard for quick and effective decision-making
-
-🛠️ Tools & Technologies
+TOOLS AND TECHNOLOGIES
 Microsoft Excel
 Pivot Tables
 VLOOKUP
 Conditional Formatting
-Charts & Dashboards
+Charts and Dashboard Elements
 
-📂 Dataset Description
-Dataset consists of 500+ operational records
-Includes metrics such as:
+DATASET DESCRIPTION
+Worked with a dataset containing 500+ operational records
+The dataset included:
 Task completion time
-Resource utilization
+Resource usage
 Performance indicators
 Workflow status
 
-(Note: Dataset is structured and cleaned before analysis to ensure accuracy.)
+(Before starting the analysis, the dataset was cleaned and organized to ensure consistency).
 
-🔍 Approach
-Data Cleaning & Preparation
-Removed inconsistencies and missing values
-Standardized data formats
+APPROACH
+
+Data Cleaning and Preparation
+I started by handling missing values, correcting inconsistencies, and standardizing formats to make the dataset usable for analysis.
 
 Data Transformation
-Created calculated fields for better analysis
-Structured data for pivot-based analysis
+Created additional calculated fields and structured the data in a way that allowed easy aggregation and comparison.
+
 Dashboard Development
-Built interactive dashboard using Pivot Tables and charts
-Added filters/slicers for dynamic data exploration
+Built an interactive dashboard using Pivot Tables and charts. Added filters and slicers so that different aspects of the data could be explored easily.
+
 Analysis
-Identified patterns and inefficiencies
-Compared performance across different parameters
+Used the dashboard to observe trends, compare performance metrics, and identify areas where operations were slowing down.
 
-📈 Key Insights
-Identified bottlenecks in workflow execution affecting efficiency
-Observed trends in resource utilization and task completion rates
-Highlighted areas with consistent performance drops
-Enabled faster decision-making through clear data visualization
+KEY INSIGHTS
+Noticed specific stages in the workflow where delays were frequent
+Found variations in resource utilization across different tasks
+Identified patterns in task completion times that indicated inefficiencies
+The dashboard made it easier to quickly understand performance issues
 
-🚀 Key Features
-Interactive and user-friendly dashboard
-Dynamic filtering for real-time insights
-Visual representation of complex data
-Automated analysis reducing manual effort
+KEY FEATURES
+Simple and interactive dashboard design
+Ability to filter and view specific data segments
+Clear visual representation of operational metrics
+Reduced need for manual analysis
 
-💡 Learnings
-Improved hands-on experience in data cleaning and structuring
-Strengthened skills in data visualization and dashboard creation
-Developed ability to derive actionable insights from raw data
+LEARNINGS
+Gained practical experience in cleaning and structuring real-world data
+Improved my understanding of how to present data in a meaningful way
+Learned how small insights from data can support better decision-making
