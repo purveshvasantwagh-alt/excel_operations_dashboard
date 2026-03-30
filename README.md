@@ -1,58 +1,53 @@
-# excel_operations_dashboard
 OPERATIONAL PERFORMANCE DASHBOARD (EXCEL)
 PROJECT OVERVIEW
 
-In this project, I worked on analyzing operational data to understand performance trends and identify inefficiencies in workflows. The goal was to convert raw, unstructured data into a clear and interactive dashboard using Microsoft Excel, enabling easier monitoring and decision-making.
+In this project, I analyzed operational data to understand performance trends and identify inefficiencies in workflows. The main objective was to convert raw data into a structured and interactive dashboard using Microsoft Excel, making it easier to monitor and interpret key metrics.
 
 OBJECTIVE
-To study operational data and understand key performance trends
-To identify areas where efficiency can be improved
-To build a simple and interactive dashboard for quick analysis
-
+To analyze operational data and understand performance patterns
+To identify inefficiencies and areas of improvement
+To develop an interactive dashboard for quick and effective analysis
 TOOLS AND TECHNOLOGIES
 Microsoft Excel
 Pivot Tables
 VLOOKUP
 Conditional Formatting
 Charts and Dashboard Elements
-
 DATASET DESCRIPTION
-Worked with a dataset containing 500+ operational records
+Worked with a dataset containing over 500 operational records
 The dataset included:
 Task completion time
-Resource usage
+Resource utilization
 Performance indicators
 Workflow status
 
-(Before starting the analysis, the dataset was cleaned and organized to ensure consistency).
+The dataset was cleaned and organized before analysis to ensure consistency and accuracy.
 
 APPROACH
 
 Data Cleaning and Preparation
-I started by handling missing values, correcting inconsistencies, and standardizing formats to make the dataset usable for analysis.
+Cleaned the dataset by handling missing values, removing inconsistencies, and standardizing formats.
 
 Data Transformation
-Created additional calculated fields and structured the data in a way that allowed easy aggregation and comparison.
+Created calculated fields and structured the data to enable efficient analysis using pivot tables.
 
 Dashboard Development
-Built an interactive dashboard using Pivot Tables and charts. Added filters and slicers so that different aspects of the data could be explored easily.
+Built an interactive dashboard using Pivot Tables and charts. Added filters and slicers to allow dynamic data exploration.
 
 Analysis
-Used the dashboard to observe trends, compare performance metrics, and identify areas where operations were slowing down.
+Analyzed trends and compared performance across different parameters to identify inefficiencies in operations.
 
 KEY INSIGHTS
-Noticed specific stages in the workflow where delays were frequent
-Found variations in resource utilization across different tasks
-Identified patterns in task completion times that indicated inefficiencies
-The dashboard made it easier to quickly understand performance issues
-
+Identified stages in the workflow where delays were frequent
+Observed variations in resource utilization across tasks
+Detected patterns in task completion times indicating inefficiencies
+Enabled quicker understanding of operational performance through visualization
 KEY FEATURES
-Simple and interactive dashboard design
-Ability to filter and view specific data segments
-Clear visual representation of operational metrics
-Reduced need for manual analysis
-
+Interactive and user-friendly dashboard
+Dynamic filtering for better data exploration
+Clear visualization of operational metrics
+Reduced manual effort in analysis
 LEARNINGS
-Gained practical experience in cleaning and structuring real-world data
-Improved my understanding of how to present data in a meaningful way
-Learned how small insights from data can support better decision-making
+Gained hands-on experience in data cleaning and structuring
+Improved data visualization and dashboard-building skills
+Developed ability to extract meaningful insights from raw data
